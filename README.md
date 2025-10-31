@@ -44,7 +44,7 @@ Varje mapp innehåller:
 ## 🧱 Namngivning
 
 Håll namn **kort och tydliga**.  
-Exempel:
+Exempel:  
 ✅ `TangentbordsKontroll`  
 ✅ `HoppOchGravitation`  
 ✅ `KameraFölj`  
